@@ -16,9 +16,9 @@ visitor_df["metric"]   = parts[0].str.strip()
 visitor_df["category"] = parts[1].str.strip()
 visitor_df["state"]    = parts[2].str.strip().str.replace(";", "", regex=False)
 
-# 4) Manually pick date & value columns (更稳)
-date_col = "unnamed_6"    # 你的文件里是 Series End / 日期
-value_col = "unnamed_7"   # 最后的列通常是 arrivals 数字
+# 4) Manually pick date & value columns 
+date_col = "unnamed_6"    
+value_col = "unnamed_7"   
 
 # 5) Build final tidy table
 final_df = visitor_df[[date_col, "state", "category", value_col]].copy()
@@ -49,7 +49,7 @@ out_path = "outputs/visiting_visas_by_state.csv"
 # === Diagnose which column has the actual counts ===
 import numpy as np
 
-# visitor_df 是已经筛出 "Short-term Visitors arriving" 的子表
+# visitor_df 
 candidates = []
 for c in visitor_df.columns:
     s = pd.to_numeric(visitor_df[c], errors="coerce")
