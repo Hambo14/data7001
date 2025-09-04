@@ -1,0 +1,77 @@
+﻿unnamed_0,unnamed_1,unnamed_2,unnamed_3,unnamed_4,unnamed_5,unnamed_6,unnamed_7,unnamed_8,unnamed_9,unnamed_10,unnamed_11
+Unknown,Time Series Workbook,,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Unknown,Unknown,,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Unknown,"3401.0 Overseas Arrivals and Departures, Australia",,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Unknown,"Table 5: Short-term Movement, Visitors Arriving - Selected Countries of Residence: Original",,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Unknown,Unknown,,Enquiries,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Data Item Description,Unknown,,Series Type,Series ID,Series Start,Series End,No. Obs.,Unit,Data Type,Freq.,Collection Month
+Number of movements ;  New Zealand ;  Short-term Visitors arriving ;,Unknown,,Original,A85375607R,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  New Caledonia ;  Short-term Visitors arriving ;,Unknown,,Original,A85375691T,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Papua New Guinea ;  Short-term Visitors arriving ;,Unknown,,Original,A85375845W,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Vanuatu ;  Short-term Visitors arriving ;,Unknown,,Original,A85375692V,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Fiji ;  Short-term Visitors arriving ;,Unknown,,Original,A85375605K,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Other Oceania and Antarctica ;  Short-term Visitors arriving ;,Unknown,,Original,A85375645C,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Total Oceania and Antarctica ;  Short-term Visitors arriving ;,Unknown,,Original,A85375602C,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+"Number of movements ;  UK, CIs & IOM ;  Short-term Visitors arriving ;",Unknown,,Original,A85375641V,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Ireland ;  Short-term Visitors arriving ;,Unknown,,Original,A85375568K,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Austria ;  Short-term Visitors arriving ;,Unknown,,Original,A85375693W,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Belgium ;  Short-term Visitors arriving ;,Unknown,,Original,A85375569L,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  France ;  Short-term Visitors arriving ;,Unknown,,Original,A85375772V,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Germany ;  Short-term Visitors arriving ;,Unknown,,Original,A85375808K,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Netherlands ;  Short-term Visitors arriving ;,Unknown,,Original,A85375768C,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Switzerland ;  Short-term Visitors arriving ;,Unknown,,Original,A85375642W,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Denmark ;  Short-term Visitors arriving ;,Unknown,,Original,A85375810W,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Finland ;  Short-term Visitors arriving ;,Unknown,,Original,A85375570W,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Norway ;  Short-term Visitors arriving ;,Unknown,,Original,A85375736K,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Sweden ;  Short-term Visitors arriving ;,Unknown,,Original,A85375646F,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Other North-West Europe ;  Short-term Visitors arriving ;,Unknown,,Original,A85375842R,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Total North-West Europe ;  Short-term Visitors arriving ;,Unknown,,Original,A85375731X,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Italy ;  Short-term Visitors arriving ;,Unknown,,Original,A85375689F,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Spain ;  Short-term Visitors arriving ;,Unknown,,Original,A85375649L,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Poland ;  Short-term Visitors arriving ;,Unknown,,Original,A85375737L,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Russian Federation ;  Short-term Visitors arriving ;,Unknown,,Original,A85375773W,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Other Southern and Eastern Europe ;  Short-term Visitors arriving ;,Unknown,,Original,A85375771T,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Total Southern and Eastern Europe ;  Short-term Visitors arriving ;,Unknown,,Original,A85375603F,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Iran ;  Short-term Visitors arriving ;,Unknown,,Original,A85375839A,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Israel ;  Short-term Visitors arriving ;,Unknown,,Original,A85375809L,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Saudi Arabia ;  Short-term Visitors arriving ;,Unknown,,Original,A85375734F,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  United Arab Emirates ;  Short-term Visitors arriving ;,Unknown,,Original,A85375608T,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Other North Africa and the Middle East ;  Short-term Visitors arriving ;,Unknown,,Original,A85375812A,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Total North Africa and the Middle East ;  Short-term Visitors arriving ;,Unknown,,Original,A85375639J,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Cambodia ;  Short-term Visitors arriving ;,Unknown,,Original,A85375690R,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Thailand ;  Short-term Visitors arriving ;,Unknown,,Original,A85375609V,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Vietnam ;  Short-term Visitors arriving ;,Unknown,,Original,A85375766X,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Indonesia ;  Short-term Visitors arriving ;,Unknown,,Original,A85375840K,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Malaysia ;  Short-term Visitors arriving ;,Unknown,,Original,A85375694X,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Philippines ;  Short-term Visitors arriving ;,Unknown,,Original,A85375571X,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Singapore ;  Short-term Visitors arriving ;,Unknown,,Original,A85375697F,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Other South-East Asia ;  Short-term Visitors arriving ;,Unknown,,Original,A85375643X,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Total South-East Asia ;  Short-term Visitors arriving ;,Unknown,,Original,A85375732A,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  China ;  Short-term Visitors arriving ;,Unknown,,Original,A85375770R,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Hong Kong ;  Short-term Visitors arriving ;,Unknown,,Original,A85375769F,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Taiwan ;  Short-term Visitors arriving ;,Unknown,,Original,A85375647J,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Japan ;  Short-term Visitors arriving ;,Unknown,,Original,A85375565C,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+"Number of movements ;  Korea, South ;  Short-term Visitors arriving ;",Unknown,,Original,A85375566F,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Other North-East Asia ;  Short-term Visitors arriving ;,Unknown,,Original,A85375841L,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Total North-East Asia ;  Short-term Visitors arriving ;,Unknown,,Original,A85375837W,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Bangladesh ;  Short-term Visitors arriving ;,Unknown,,Original,A85375604J,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  India ;  Short-term Visitors arriving ;,Unknown,,Original,A85375843T,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Nepal ;  Short-term Visitors arriving ;,Unknown,,Original,A85375846X,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Pakistan ;  Short-term Visitors arriving ;,Unknown,,Original,A85375606L,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Sri Lanka ;  Short-term Visitors arriving ;,Unknown,,Original,A85375567J,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Other Southern and Central Asia ;  Short-term Visitors arriving ;,Unknown,,Original,A85375644A,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Total Southern and Central Asia ;  Short-term Visitors arriving ;,Unknown,,Original,A85375836V,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Canada ;  Short-term Visitors arriving ;,Unknown,,Original,A85375695A,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  United States of America ;  Short-term Visitors arriving ;,Unknown,,Original,A85375650W,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Argentina ;  Short-term Visitors arriving ;,Unknown,,Original,A85375767A,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Brazil ;  Short-term Visitors arriving ;,Unknown,,Original,A85375651X,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Chile ;  Short-term Visitors arriving ;,Unknown,,Original,A85375648K,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Colombia ;  Short-term Visitors arriving ;,Unknown,,Original,A85375696C,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Mexico ;  Short-term Visitors arriving ;,Unknown,,Original,A85375844V,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Other Americas ;  Short-term Visitors arriving ;,Unknown,,Original,A85375733C,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Total Americas ;  Short-term Visitors arriving ;,Unknown,,Original,A85375838X,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  South Africa ;  Short-term Visitors arriving ;,Unknown,,Original,A85375811X,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Other Sub-Saharan Africa ;  Short-term Visitors arriving ;,Unknown,,Original,A85375735J,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Total Sub-Saharan Africa ;  Short-term Visitors arriving ;,Unknown,,Original,A85375564A,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Total (Country of stay/residence) ;  Short-term Visitors arriving ;,Unknown,,Original,A85375847A,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+© Commonwealth of Australia  2025,Unknown,,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown

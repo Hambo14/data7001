@@ -1,0 +1,18 @@
+﻿unnamed_0,unnamed_1,unnamed_2,unnamed_3,unnamed_4,unnamed_5,unnamed_6,unnamed_7,unnamed_8,unnamed_9,unnamed_10,unnamed_11
+Unknown,Time Series Workbook,,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Unknown,Unknown,,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Unknown,"3401.0 Overseas Arrivals and Departures, Australia",,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Unknown,"Table 11: Short-term Movement, Visitors Arriving - Intended State Of Stay: Original",,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Unknown,Unknown,,Enquiries,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Data Item Description,Unknown,,Series Type,Series ID,Series Start,Series End,No. Obs.,Unit,Data Type,Freq.,Collection Month
+Number of movements ;  Short-term Visitors arriving ;  NSW ;,Unknown,,Original,A85247916X,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Short-term Visitors arriving ;  Vic ;,Unknown,,Original,A85247923W,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Short-term Visitors arriving ;  Qld ;,Unknown,,Original,A85247917A,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Short-term Visitors arriving ;  SA ;,Unknown,,Original,A85247924X,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Short-term Visitors arriving ;  WA ;,Unknown,,Original,A85247921T,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Short-term Visitors arriving ;  Tas ;,Unknown,,Original,A85247918C,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Short-term Visitors arriving ;  NT ;,Unknown,,Original,A85247920R,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Short-term Visitors arriving ;  ACT ;,Unknown,,Original,A85247919F,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Short-term Visitors arriving ;  Other Territories ;,Unknown,,Original,A85247922V,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+Number of movements ;  Short-term Visitors arriving ;  Total (State of residence/stay) ;,Unknown,,Original,A85247925A,1991-01-01 00:00:00,2025-06-01 00:00:00,414,Number,FLOW,Month,1
+© Commonwealth of Australia  2025,Unknown,,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
