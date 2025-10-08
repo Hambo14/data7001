@@ -1,0 +1,40 @@
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:            ln_arrivals   R-squared:                        0.2089
+Estimator:                   PanelOLS   R-squared (Between):              0.0220
+No. Observations:                5160   R-squared (Within):               0.2089
+Date:                Wed, Oct 08 2025   R-squared (Overall):              0.0224
+Time:                        20:32:26   Log-likelihood                   -2048.2
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      134.89
+Entities:                          43   P-value                           0.0000
+Avg Obs:                       120.00   Distribution:                 F(10,5107)
+Min Obs:                       120.00                                           
+Max Obs:                       120.00   F-statistic (robust):             14.954
+                                        P-value                           0.0000
+Time periods:                     120   Distribution:                 F(10,5107)
+Avg Obs:                       43.000                                           
+Min Obs:                       43.000                                           
+Max Obs:                       43.000                                           
+                                                                                
+                             Parameter Estimates                              
+==============================================================================
+            Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------
+FX_neg         0.0331     0.1494     0.2214     0.8248     -0.2597      0.3259
+y_2011         0.0087     0.0167     0.5190     0.6038     -0.0240      0.0413
+y_2012         0.0685     0.0277     2.4763     0.0133      0.0143      0.1228
+y_2013         0.1181     0.0290     4.0767     0.0000      0.0613      0.1749
+y_2014         0.1752     0.0313     5.5913     0.0000      0.1138      0.2366
+y_2015         0.2178     0.0370     5.8781     0.0000      0.1451      0.2904
+y_2016         0.3182     0.0461     6.8959     0.0000      0.2278      0.4087
+y_2017         0.4044     0.0537     7.5254     0.0000      0.2990      0.5097
+y_2018         0.4850     0.0616     7.8697     0.0000      0.3642      0.6059
+y_2019         0.5238     0.0648     8.0831     0.0000      0.3967      0.6508
+==============================================================================
+
+F-test for Poolability: 1544.1
+P-value: 0.0000
+Distribution: F(42,5107)
+
+Included effects: Entity
